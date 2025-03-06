@@ -1,1 +1,6 @@
 ![Задание](https://github.com/Hoaxlt/terraform/blob/master/practice_1/Screenshot_1.png)
+![Задание](https://github.com/Hoaxlt/terraform/blob/master/practice_1/Screenshot_2.png)
+![Задание](https://github.com/Hoaxlt/terraform/blob/master/practice_1/Screenshot_3.png)
+![Задание](https://github.com/Hoaxlt/terraform/blob/master/practice_1/Screenshot_4.png)
+![Задание](https://github.com/Hoaxlt/terraform/blob/master/practice_1/Screenshot_5.png)
+![Задание](https://github.com/Hoaxlt/terraform/blob/master/practice_1/Screenshot_6.png)
